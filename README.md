@@ -1,3 +1,10 @@
+ Project’s title -> REAL TIME CHAT APPLICATION ;
+ Name-> PRIYANSH SINGH;
+ GitHub usernames-> singh04priyansh ;
+ City and country -> Jabalpur, Madhya Pradesh, India ;
+ Date of vidio Reacording-> 17/07/2024
+
+
 # chat-application:-
 
 A  real-time chat application user interface which is easy to communicate between client and server also with multiple computers...
